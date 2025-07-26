@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(135deg, #232526 0%, #414345 100%);
+    color: #fff;
+    font-family: 'Montserrat', 'Arial', sans-serif;
+  }
+  a:hover {
+    color: #ff4081;
+    transition: color 0.3s;
+  }
+  .navbar {
+    background: rgba(30,30,30,0.8) !important;
+    backdrop-filter: blur(8px);
+  }
