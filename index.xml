@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Hugo Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My Hugo Blog</description>
+    <title>My Blog</title>
+    <link>https://leiyiyi2017.github.io/</link>
+    <description>Recent content on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leiyiyi2017.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://leiyiyi2017.github.io/posts/hello-world/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://leiyiyi2017.github.io/posts/hello-world/</guid>
       <description>&lt;p&gt;This is a sample post created with the Coder theme!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://leiyiyi2017.github.io/resume/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://leiyiyi2017.github.io/resume/</guid>
+      <description>&lt;h1 id=&#34;resume&#34;&gt;&#xA;  Resume&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#resume&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;personal-information&#34;&gt;&#xA;  Personal Information&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#personal-information&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Name:&lt;/strong&gt; Leiyiyi&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:euwyt7rt764@hotmail.com&#34; &gt;euwyt7rt764@hotmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;&#xA;  Education&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#education&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;2014/09 - 2018/06&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Huazhong University of Science and Technology&lt;/strong&gt;&lt;br&gt;&#xA;Major: Computer Science and Technology, Bachelor&lt;br&gt;&#xA;GPA: 3.82/4.0&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Recipient of National Encouragement Scholarship and University Scholarship&lt;/li&gt;&#xA;&lt;li&gt;Outstanding Class Leader, Excellent Student, Excellent Youth Volunteer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;&#xA;  Skills&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#skills&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python, Java, C++&lt;/li&gt;&#xA;&lt;li&gt;Web Development: HTML, CSS, JavaScript&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;&#xA;  Experience&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#experience&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;senior-full-stack-developer--source-code-capital&#34;&gt;&#xA;  &lt;strong&gt;Senior Full-Stack Developer&lt;/strong&gt; | Source Code Capital&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#senior-full-stack-developer--source-code-capital&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2022.08 - Present&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
